@@ -1,5 +1,8 @@
-# 197 Broken USB Arduino Workaround
+## 197 Broken USB Arduino Workaround
 Is the USB on your Arduino broken? Here's a workaround that simple and cheap
+
+### See the video #197 on my YouTube channel: https://www.youtube.com/ralphbacon
+#### Direct link to this video: 
 
 I had a query about what could be done with an Arduino UNO (or Nano) that has a non-functioning USB? Apart from getting out the soldering iron there is a simple workaround that costs very little and is easy to do. In fact, I give two solutions! and a discussion about compiler optimisation as a bonus.
 
